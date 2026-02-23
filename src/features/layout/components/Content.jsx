@@ -120,21 +120,21 @@ export const Content = () => {
         price: "249.000",
         stockLabel: "Pocas unidades",
         badgeClass: "bg-warning text-dark",
-        image: "/img/TecladoMecanico.jpg"
+        image: "./public/img/TecladoMecanico.jpg"
     },
       {
         name: "Mouse Inalámbrico",
         price: "49.900",
         stockLabel: "En stock",
         badgeClass: "bg-success",
-        image: "/img/MouseInalambrico.jpg"
+        image: "./public/img/MouseInalambrico.jpg"
     },
     {
         name: "Auriculares Bluetooth",
         price: "159.900",
         stockLabel: "En stock",
         badgeClass: "bg-success",
-        image: "/img/AuricularesBluetooth.jpg"
+        image: "./public/img/AuricularesBluetooth.jpg"
     },
    
     {
@@ -142,7 +142,7 @@ export const Content = () => {
         price: "329.000",
         stockLabel: "Agotado",
         badgeClass: "bg-secondary",
-        image: "/img/Smartwatch.jpg"
+        image: "./public/img/Smartwatch.jpg"
     },
     
     {
@@ -150,7 +150,7 @@ export const Content = () => {
         price: "399.000",
         stockLabel: "Pocas unidades",
         badgeClass: "bg-warning text-dark",
-        image: "/img/Monitor.jpg"
+        image: "./public/img/Monitor.jpg"
     },
 
     {
